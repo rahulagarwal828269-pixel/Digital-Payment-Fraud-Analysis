@@ -31,7 +31,8 @@ The core of this project is contained within `digital_payment_fraud_detection.sq
 
 ## 📈 Dashboard Visualization
 
-![Fraud Detection Dashboard](dashboard_snapshot.jpg)
+<img width="1325" height="739" alt="dashboard_snapshot jpg" src="https://github.com/user-attachments/assets/193e1c9a-0a7b-4510-944c-97fd047fd990" />
+
 
 ## 🚀 How to Run This Project
 1. Clone this repository to your local machine.
